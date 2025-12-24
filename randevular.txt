@@ -1,0 +1,7 @@
+ tc: 12345678901
+ad soyad: sasdasds
+dogum tarihi: 12121212
+telefon: 123445
+bolum: asdad
+gun: 123213
+saat: 123123koray alabacak
